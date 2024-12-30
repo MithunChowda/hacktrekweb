@@ -1,3 +1,15 @@
+# _**THIS PARTICULAR SITE IS ONLY MADE FOR WINDOWS**_
+
+
+
+
+
+
+
+
+
+
+
 # Vulnerability Check Site
 
 ## Overview
@@ -5,6 +17,8 @@
 Welcome to the **Vulnerability Check Site**, a deliberately insecure web application designed for developers, security professionals, and ethical hackers. This project offers a hands-on learning experience by helping you identify, exploit, and patch common web application vulnerabilities. Modeled after **Juice Shop**, this app provides various security challenges that will test your skills in areas like authentication, authorization, input validation, and more.
 
 Whether you're new to web security or looking to refine your skills, this site serves as an ideal environment for experimenting with common security flaws and learning how to fix them.
+
+
 
 
 
@@ -20,8 +34,6 @@ The primary goal of this project is to provide an educational and engaging platf
 
 ### Operating System:
 
-#### Kali Linux:
-- **Burp Suite**: For intercepting and analyzing HTTP requests and responses.
 
 #### Windows:
 - **Visual Studio**: For running and developing the app.
@@ -52,19 +64,6 @@ To install **React** and manage routing, run:
 
 
     npm install react-router-dom
-
-
-#### For Linux:
-
-1. Clone the repository:
-
-       git clone https://github.com/MithunChowda/hacktrekweb
-    
-
-2. Change the directory to the project folder.
-
-3. Run the application using **Burp Suite** for further analysis and interception of web traffic.
-
 
 
 ## Back End Setup
