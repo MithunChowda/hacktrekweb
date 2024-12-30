@@ -1,5 +1,10 @@
 # Vulnerability Check Site
-
+██╗  ██╗ █████╗  ██████╗██╗  ██╗████████╗████████╗███████╗██╗  ██╗
+██║  ██║██╔══██╗██╔════╝██║  ██║╚══██╔══╝╚══██╔══╝██╔════╝██║  ██║
+███████║███████║██║     ███████║   ██║      ██║   █████╗  ███████║
+██╔══██║██╔══██║██║     ██╔══██║   ██║      ██║   ██╔══╝  ██╔══██║
+██║  ██║██║  ██║╚██████╗██║  ██║   ██║      ██║   ███████╗██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚══════╝╚═╝  ╚═╝
 ## Objective
 
 This project is a deliberately insecure web application designed to help developers, security professionals, and ethical hackers learn how to identify, exploit, and fix common web application vulnerabilities. It is modeled after Juice Shop, a popular vulnerable web application, and provides a range of security challenges to test various aspects of web security, including authentication, authorization, input validation, and more.
