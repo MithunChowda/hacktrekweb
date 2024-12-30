@@ -17,6 +17,7 @@ This project is a deliberately insecure web application designed to help develop
 1. ZapProxy
 2. intruder
 3. MITMproxy
+- xamp
 
 # Installation Steps
 
@@ -42,7 +43,13 @@ Install react:
 CLONE THE REPOSITORY:
    
     git clone https://github.com/MithunChowda/hacktrekweb
-now change the directory to where the app is located and run it using burp suit as it is required in tghe furthur steps
+now change the directory to where the app is located and run it using burp suit as it is required in the furthur steps
+
+# Back end
+
+## XAMP
+open the xamp app and run the backend which is the **apache** and **MYSQL**
+
 
 
 check out the vulnurabilities to learn how to bypass them ;)
