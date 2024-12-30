@@ -10,9 +10,9 @@
 
 
 
-# Vulnerability Check Site
+# VULNERABILITY CHECK SITE
 
-## Overview
+## OVERVIEW
 
 Welcome to the **Vulnerability Check Site**, a deliberately insecure web application designed for developers, security professionals, and ethical hackers. This project offers a hands-on learning experience by helping you identify, exploit, and patch common web application vulnerabilities. Modeled after **Juice Shop**, this app provides various security challenges that will test your skills in areas like authentication, authorization, input validation, and more.
 
@@ -22,7 +22,7 @@ Whether you're new to web security or looking to refine your skills, this site s
 
 
 
-## Objective
+## OBJECTIVE
 
 The primary goal of this project is to provide an educational and engaging platform where users can:
 - 🔍 Learn about common web application vulnerabilities.
@@ -30,12 +30,12 @@ The primary goal of this project is to provide an educational and engaging platf
 - 🛡️ Understand how to mitigate security flaws in real-world web applications.
 
 
-## Prerequisites
+## PREREQUESITES
 
-### Operating System:
+### OPERATING SYSTEM:
 
 
-#### Windows:
+#### WINDOWSS:
 - **Visual Studio**: For running and developing the app.
 - Web request analysis tools similar to **Burp Suite**:
   1. **ZapProxy**: An easy-to-use proxy for intercepting web traffic.
@@ -45,11 +45,11 @@ The primary goal of this project is to provide an educational and engaging platf
 
 
 
-## Installation Steps
+## INSTALLATION STEPS
 
-### Set up the environment:
+### SET UP THE ENVIRONMENT:
 
-#### For Windows:
+#### FOR WINDOWS:
 
 1. Install **Visual Studio** (if not already installed).
 2. Navigate to the project directory.
@@ -66,7 +66,7 @@ To install **React** and manage routing, run:
     npm install react-router-dom
 
 
-## Back End Setup
+## BACKEND SETUP
 
 ### XAMPP:
 
@@ -80,7 +80,7 @@ To install **React** and manage routing, run:
 
   _EACH TIME YOU RUN THE WEBPAGE , RUN THE CHAT BOT WEBPAGE , REPLACE THE URL AS IT WILL BE CHANGING EACH AND EVERYTIME IN THE APP FILE WHERE ROUTING IS MENTIONED TO MAKE THE CHATBOT CHALLENGE WORK_
 
-## Explore and Learn
+## EXPLORE AND LEAR
 
 Dive into the application to discover vulnerabilities such as:
 - **Authentication Bypass** 🔐: Test the security of login mechanisms.
@@ -89,7 +89,7 @@ Dive into the application to discover vulnerabilities such as:
 - **Chatbot Challenge** 🤖: Explore vulnerabilities within the chatbot system and test your skills in exploiting it.
 
 
-## Secure Coding Practices
+## SECURE CODING PRACTICES
 
 As you identify vulnerabilities, this project will teach you how to **patch** them:
 - **Input Validation**: Learn the importance of properly sanitizing inputs to prevent injections and XSS.
@@ -98,8 +98,7 @@ As you identify vulnerabilities, this project will teach you how to **patch** th
 - **Cryptography**: Explore basic concepts of encrypting sensitive data like passwords.
 
 
-## Tools for Security Testing
-
+## TOOLS FOR SECURITY TESTING
 Here are some of the tools you can use to explore the vulnerabilities in this project:
 
 - **Burp Suite**: For web vulnerability scanning and traffic interception.
@@ -111,7 +110,7 @@ Here are some of the tools you can use to explore the vulnerabilities in this pr
 These tools will help you identify, exploit, and secure vulnerabilities in the app, providing a hands-on learning experience.
 
 
-## Contributing
+## CONTRIBUTING
 
 Contributions are always welcome! If you have suggestions, bug fixes, or want to add new challenges, feel free to create a pull request.
 
@@ -120,8 +119,7 @@ Contributions are always welcome! If you have suggestions, bug fixes, or want to
 - **Submit a pull request** with a clear explanation of your modifications
 
 
-## Resources
-
+## RESOURCES
 Here are some helpful resources for learning web application security:
 
 - [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
@@ -131,7 +129,7 @@ Here are some helpful resources for learning web application security:
 
 
 
-## Happy Hacking! 🎉
+## HAPPY HACKING! 🎉
 
 
 Check out the vulnerabilities, experiment with exploits, and learn how to fix them. This is your chance to sharpen your cybersecurity skills in a safe and controlled environment!
