@@ -1,19 +1,19 @@
-Vulnerability Check Site
+# Vulnerability Check Site
 
-Objective
+## Objective
 
 This project is a deliberately insecure web application designed to help developers, security professionals, and ethical hackers learn how to identify, exploit, and fix common web application vulnerabilities. It is modeled after Juice Shop, a popular vulnerable web application, and provides a range of security challenges to test various aspects of web security, including authentication, authorization, input validation, and more.
 
-Prerequisites
+## Prerequisites
 
-Operating System:kali linux(or) windows:
+## Operating System:kali linux(or) windows:
 visual studios,burp suit.
 
-Installation Steps
+# Installation Steps
 
-Set up the environment:
+## Set up the environment:
 
-#For Windows:
+### For Windows:
 
 1.install the required software ,Which is visuall studios
 
@@ -28,7 +28,7 @@ Install react:
 
     npm install react-router-dom
 
-FOR LINUX 
+### FOR LINUX 
 
 CLONE THE REPOSITORY:
    
