@@ -31,6 +31,7 @@ Install react:
 FOR LINUX 
 
 CLONE THE REPOSITORY:
+   
     git clone https://github.com/MithunChowda/hacktrekweb
 now change the directory to where the app is located and run it using burp scuit as it is required in tghe furthur steps
 
