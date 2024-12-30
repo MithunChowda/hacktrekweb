@@ -6,8 +6,17 @@ This project is a deliberately insecure web application designed to help develop
 
 ## Prerequisites
 
-## Operating System:kali linux(or) windows:
-visual studios,burp suit.
+## Operating System:
+### kali linux:
+- burp suit.
+
+### WINDOWS:
+
+- visual studios
+- webrequest websites like burp suit for windows:
+1. ZapProxy
+2. intruder
+3. MITMproxy
 
 # Installation Steps
 
@@ -33,7 +42,7 @@ Install react:
 CLONE THE REPOSITORY:
    
     git clone https://github.com/MithunChowda/hacktrekweb
-now change the directory to where the app is located and run it using burp scuit as it is required in tghe furthur steps
+now change the directory to where the app is located and run it using burp suit as it is required in tghe furthur steps
 
 
 check out the vulnurabilities to learn how to bypass them ;)
