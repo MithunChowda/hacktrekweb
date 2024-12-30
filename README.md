@@ -76,6 +76,10 @@ To install **React** and manage routing, run:
    - **MySQL**: The database server.
 
 
+# _NOTE_
+
+  _EACH TIME YOU RUN THE WEBPAGE , RUN THE CHAT BOT WEBPAGE , REPLACE THE URL AS IT WILL BE CHANGING EACH AND EVERYTIME IN THE APP FILE WHERE ROUTING IS MENTIONED TO MAKE THE CHATBOT CHALLENGE WORK_
+
 ## Explore and Learn
 
 Dive into the application to discover vulnerabilities such as:
